@@ -4,11 +4,11 @@ titles: About
 ---
 
 
-<a href="https://scholar.xjtlu.edu.cn/en/persons/YueLi"><img src="http://profile.xjtlu.edu.cn/upload/8PWcWXwozR9kbffOuAYO.jpg" height="auto" width="200" style="border-radius:3%; float: right"></a>
+<a href="https://scholar.xjtlu.edu.cn/en/persons/YueLi"><img src="https://www.xjtlu.edu.cn/wp-content/uploads/staffs_profile/663f53f506121758113e7fa17f366d38.jpg" height="auto" width="200" style="border-radius:3%; float: right"></a>
 
 I am an Assistant Professor at the Department of Computing, School of Advanced Technology, Xi'an Jiaotong-Liverpool University. 
 
-My research interest is in the field of **Human Computer Interaction (HCI)**, with particular emphasis on **Extended Reality (XR)** technologies. I have been actively involved in research related to the design, evaluation, and application of VR and AR in **cultural heritage** and **education**. 
+My research interest is in the field of **Human Computer Interaction (HCI)**, with particular emphasis on **Extended Reality (XR)** technologies. I have been actively involved in research related to the design, evaluation, and application of VR and AR in **cultural heritage** and **education**. I lead the [HER Lab (Heritage, Edutainment, and Reality)](https://hiherlab.github.io/).
 
 I received my PhD degree from the **University of Nottingham** in 2020 with the Postgraduate Award. During my PhD study, I worked at the NVIDIA Joint-Lab on Mixed Reality in Ningbo and the Mixed Reality Lab in Nottingham UK.
 
@@ -26,8 +26,8 @@ Currently I am leading several prestigious research grants, including the Young 
 - **Software Engineer Intern** @ IBM, Jun 2014 - Sep 2014
 
 ## Teaching
-- **Module Leader**, CPT208 Human-Centric Computing, Xi’an Jiaotong-Liverpool University, AY2021/22, AY2022/23, AY2023/24 S2.
-- **Module Leader**, CPT411 Evaluation Methods and Statistics, Xi’an Jiaotong-Liverpool University, AY2021/22, AY2022/23, AY2023/24 S1. 
+- **Module Leader**, CPT208 Human-Centric Computing, Xi’an Jiaotong-Liverpool University, AY2021/22, AY2022/23, AY2023/24, AY2024/25 S2.
+- **Module Leader**, CPT411 Evaluation Methods and Statistics, Xi’an Jiaotong-Liverpool University, AY2021/22, AY2022/23, AY2023/24, AY2024/25 S1. 
 - **Co-Teacher**, CPT202 Software Engineering Group Project, Xi’an Jiaotong-Liverpool University, AY2020/21 S2.
 - **Teaching Assistant**, COMP1041 Databases and Interfaces, University of Nottingham Ningbo China, AY2017/18 S2.
 - **Teaching Assistant**, COMP1040 Systems and Architecture, University of Nottingham Ningbo China, AY2017/18 S1.
@@ -35,6 +35,8 @@ Currently I am leading several prestigious research grants, including the Young 
 
 
 ## Honours and Awards
+- **Academic Excellence Award - Teaching Innovation Award**, Xi'an Jiaotong-Liverpool University, 2025
+- **Rising Star in Research and Innovation**, University of Nottingham, 2025
 - **Science and Education Backbone Talents**, Suzhou City, 2022
 - **Shuangchuang PhD**, Jiangsu Province, 2022
 - **Best Paper Award & Best Presentation Award**, International Conference on Educational Technology, 2022

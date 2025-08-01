@@ -6,6 +6,7 @@ titles: Publications
 ---
 
 #### 2025
+- Zhang, J., Zhao, D., **Li, Y.**, Ming, G., & Pei, W. (2025). Four-Dimensional Adjustable Electroencephalography Cap for Solid–Gel Electrode. Sensors, 25(13), 4037. DOI: [10.3390/s25134037](https://doi.org/10.3390/s25134037) 
 - Zhang, S., Ma, M., **Li, Y.*,** Man, K. L., Smith, J., & Yue, Y. (2025). The Effects of LLM-Empowered Chatbots and Avatar Guides on the Engagement, Experience, and Learning in Virtual Museums. International Journal of Human–Computer Interaction, 1–13. DOI: [10.1080/10447318.2025.2494072](https://doi.org/10.1080/10447318.2025.2494072)
 - Li, X., Zhang, J., Shi, B., **Li, Y.**, Wang, Y., Shuai, K., Li, Y., Ming, G., Song, T., Pei, W., & Sun, B. (2025). Freestanding Transparent Organic–Inorganic Mesh E-Tattoo for Breathable Bioelectrical Membranes with Enhanced Capillary-Driven Adhesion. ACS Applied Materials & Interfaces, 17(15), 22337–22351. DOI: [10.1021/acsami.5c00565](https://doi.org/10.1021/acsami.5c00565)
 - Wang, X., **Li, Y.*,** Ling, B., Chen, H.-M., & Liang, H. - N. (2025). ResponsiveView: Enhancing 3D Artifact Viewing Experience in VR Museums. IEEE Transactions on Visualization and Computer Graphics, 31(5), 2870–2879. DOI: [10.1109/TVCG.2025.3549872](https://doi.org/10.1109/TVCG.2025.3549872)
@@ -110,32 +111,10 @@ titles: Publications
 
 
 ## Patent
-- **Yue Li**, Ziyue Zhao. Invention. A balance vehicle equipment and system. Submitted Aug 2023. Application No.: 202311032538.6, Issue No.: 2023090300051290. 发明创造：一种平衡车设备和系统.
+- XJTLU and Suzhou Cultural Relics Protection and Management Office. Software Copyright. Suzhou Twin Pagodas Tour Guide System Based on Augmented Reality and Large Language Model. Registered No.: 2025SR1215933. 软件著作权: 基于增强现实和大语言模型的苏州双塔导览系统.
+- **Yue Li** and Xueqi Wang. Invention. A Virtual Reality Object-Based Interaction Method, Device, Equipment, Medium, and Product. Submitted Nov 2024. Application No.: 202411611079.1, Issue No.: 2024111202186840. 发明创造: 基于虚拟现实的物体对象交互方法、装置、设备、介质及产品.
+- **Yue Li**, Ziyue Zhao. Invention. A balance vehicle equipment and system. Submitted Aug 2023. Application No.: 202311032538.6, Issue No.: 2023090300051290. 发明创造: 一种平衡车设备和系统.
 - **Yue Li**, Kedong Chai. Invention. Haptic simulation device, haptic simulation method and virtual reality system. Submitted Jun 2023. Application No.: 202310744340.4, Issue No.: 2023090100378180. 发明创造：触觉模拟装置、触觉模拟方法和虚拟现实系统.
 - **Yue Li**. Invention: An Augmented Reality-Based Interaction Method, Artefact, Electronic Device and Medium. Submitted Oct 2021. Application No.: 202111193452.2, Issue No.: 2022011700657040. 发明创造: 一种基于增强现实的交互方法、装置、电子设备及存储介质.
 - **Yue Li**, Eugene Ch'ng. System and Method for Multiuser Interaction with Hybrid Virtual and Augmented Reality. Submitted Jan 2021. Application No.：202110030565.4, Issue No.: 2021011101862320. 发明创造：一种实现多人混合虚拟和增强交互的系统及方法.
 
-
-## Research Grants and Scholarships
-- **PI**, Industrial Internet XR Education Lab, Ministry of Education University-Industry Collaborative Education Program, 231104276200911. 200,000 RMB, 2024-05 to 2024-12. 教育部产学合作协同育人项目: 工业互联网XR教育实验室.
-- **PI**, Virtual Reality Education Technology for Smart Museums, National Natural Science Foundation of China (NSFC), 62207022. 300,000 RMB, 2023-01 to 2025-12. 国家自然科学基金青年科学基金: 面向智慧博物馆的虚拟现实教育研究.
-- **PI**, Extended Reality Collaboration Technology for Metaverse, Natural Science Foundation of the Jiangsu Higher Education Institutions of China. 30,000 RMB, 2022-07 to 2024-06. 江苏省高校自然科学研究面上项目: 面向元宇宙的扩展现实协作技术研究.
-- **PI**, Experiential Learning in Virtual Museums. XJTLU Postgraduate Research Scholarship Fund, FOSA2206014. 297,000 RMB, 2023-09 to 2026-08. 博士生奖学金: 虚拟博物馆中的体验式学习.
-- **PI**, Fabrication of High-Performance Neural Sensors for Signal Acquisition of Non-Invasive Brain-Computer Interface (BCI). XJTLU Postgraduate Research Scholarship Fund (JITRI), FOS2210JB02. 297,000 RMB, 2023.06 to 2026.05. 博士生奖学金: 高性能无创脑机接口信号采集传感器制备研究.
-- **PI**, Engaging Spectators in Virtual Reality. XJTLU Research Development Fund, RDF-20-02-47. 97,700 RMB, 2021-09 to 2024-08. 科研发展基金: 面向社交环境的虚实融合交互机制研究.
-- **PI**, Engaging Students in Exploratory Modules Using Virtual Reality, XJTLU Teaching Development Fund, TDF20/21-R22-142. 50,000 RMB, 2021-09 to 2023-08. 教学发展基金: 基于虚拟现实的探索性课程教学研究.
-- **PI**, Playful Virtual Museums: Exploring the Digital Affordances, XJTLU Summer Undergraduate Research Fellowship, SURF-2023-0011. 6,000 RMB, 2023-06 to 2023-09. 夏季本科生研究基金: 有趣的虚拟博物馆：探索数字功能可供性.
-- **PI**, Selection and Manipulation Techniques for Object Observation in Immersive Virtual Reality, XJTLU Summer Undergraduate Research Fellowship, SURF-2022055. 6,000 RMB, 2022-06 to 2022-09. 夏季本科生研究基金: 沉浸式虚拟现实中目标观察的选择和操作技术.
-- **PI**, Presenting Cultural Artefacts Using Virtual and Augmented Reality, XJTLU Summer Undergraduate Research Fellowship, SURF-2021045. 10,000 RMB, 2021-06 to 2022-09. 夏季本科生研究基金: 使用虚拟现实和增强现实技术展示文物.
-- **Co-PI**, Revisualization of Architectural Heritage with Heritage Building Information System (H-BIM) and Extended Reality (XR) Technology. Suzhou Science and Technology Development Planning Programme, 2022SS51. PI: Dr Yiping Dong, 100,000 RMB, 2022-07 to 2025-06. 苏州市科技计划（社会发展科技创新）: 基于建筑信息系统与扩展现实技术的建筑遗产重现应用研究.
-- **Co-PI**, The collaborative work of heritage: Dataware as a means to support articulation work between abstract heritage data and information visualisation. XJTLU Research Development Fund, RDF-21-02-008. PI: Dr Yushan Pan, 100,000 RMB, 2023-01 to 2025-12.
-- **Co-PI**, Low-code framework research and development for small-scale and highly flexible research affairs management system for SAT. AI University Research Centre (AIURC) Fund, AIURC-2022-0007. PI: Fei Cheng (CAN), 95,000 RMB, 2022-09 to 2024-08.
-- **Co-PI**, Design and Development of Trusted Real-Time Execution Environments. XJTLU Research Enhancement Fund, REF-21-01-002. PI: Prof Ka Lok Man, 50,000 RMB, 2022-03 to 2024-02.
-- **Co-PI**, Development of Data-Driven Project-Based Learning Instructional Model and Strategies for the XJTLU Undergraduate Students. XJTLU Teaching Development Fund, TDF21/22-R25-189. PI: Dr Jinhee Kim, 50,000 RMB, 2023-02 to 2024-02.
-- **Co-PI**, Exploring Immersive Learning Through Virtual Reality Technology in IOM411 Logistics and Physical Distribution. XJTLU Teaching Development Fund, TDF20/21-R22-147. PI: Dr Zhiqin Ni, 50,000 RMB, 2021-09 to 2023-08.
-- **Member**, Natural Interaction Techniques for Immersive Data Visualization. National Natural Science Foundation of China (NSFC) General Programme, 62272396. PI: Dr Lingyun Yu, 540,000 RMB, 2023-01 to 2026-12. 国家自然科学基金面上项目: 自然交互驱动的沉浸式空间可视化数据探索.
-- **Member**, Suzhou Municipal Key Lab for Intelligent Virtual Engineering. PI: Yong Yue, 700,000 RMB, 2022-11 to 2025-10. 苏州市智能虚拟工程重点实验室.
-- **Member**, Suzhou Municipal Key Lab of Cognitive Computing and Applied Technology. PI: Qiufeng Wang, 2,000,000 RMB, 2019-07 to 2021-06. 苏州市认知计算应用技术重点实验室提升平台.
-- **Member**, Cultural Heritage and Cross-Border Digital Communication in the Terrestrial and Maritime Silk Road: Facilitating the Construction of a Cloud-Based Heritage Open VR Social Database. Ningbo Science and Technology Bureau, 2017D10035. 300,000 RMB, 2018-09 to 2021-08. 宁波市重大科技专项项目: 海陆丝绸之路上的文化遗产和跨境数字通信：构建兼具开放性、社交性和虚拟现实技术的文化遗产云端共享数据库.
-- **Member**, R & D and Practice of Key Technologies in Virtual Reality System Development of Chinese Culture and Education-Based Museum Collections. Zhejiang Science and Technology Bureau, 2017C33029. 150,000 RMB, 2016-09 to 2018-08. 浙江省公益技术应用研究: 基于博物馆馆藏的中国文化教育虚拟现实系统开发的关键技术研发及实践.
-- **PhD Scholarship**, International Doctoral Innovation Centre. Sponsored by Ningbo Education Bureau, Ningbo Science and Technology Bureau, Ministry of Science and Technology of the People's Republic of China, and University of Nottingham. RCUK Grant No. EP/L015463/1. Tuition fee waiver & ~300,000 RMB stipend, 2016-09 to 2020-08.
