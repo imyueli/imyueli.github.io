@@ -82,11 +82,7 @@
       "startDate": "2017-02-01",
       "endDate": "2018-05-01",
       "summary": "Teaching assistance in computer science courses",
-      "highlights": [
-        "COMP1041 Databases and Interface",
-        "COMP1040 Systems and Architecture",
-        "G51FAI Fundamentals of Artificial Intelligence"
-      ]
+      "highlights": ["COMP1041 Databases and Interface", "COMP1040 Systems and Architecture", "G51FAI Fundamentals of Artificial Intelligence"]
     },
     {
       "name": "Globalisation Shared Service Centre, IBM",
@@ -216,24 +212,12 @@
     {
       "name": "Teaching",
       "level": "Expert",
-      "keywords": [
-        "Human-Centric Computing",
-        "Evaluation Methods and Statistics",
-        "Software Engineering",
-        "Module Leadership",
-        "Student Supervision"
-      ]
+      "keywords": ["Human-Centric Computing", "Evaluation Methods and Statistics", "Software Engineering", "Module Leadership", "Student Supervision"]
     },
     {
       "name": "Technical",
       "level": "Advanced",
-      "keywords": [
-        "Machine Learning",
-        "Data Visualization",
-        "Software Engineering",
-        "Statistical Analysis",
-        "Research Methodology"
-      ]
+      "keywords": ["Machine Learning", "Data Visualization", "Software Engineering", "Statistical Analysis", "Research Methodology"]
     }
   ],
   "languages": [
@@ -249,20 +233,11 @@
   "interests": [
     {
       "name": "Research",
-      "keywords": [
-        "Virtual Reality",
-        "Cultural Heritage",
-        "Museum Technology",
-        "Human-Computer Interaction"
-      ]
+      "keywords": ["Virtual Reality", "Cultural Heritage", "Museum Technology", "Human-Computer Interaction"]
     },
     {
       "name": "Academic Service",
-      "keywords": [
-        "Journal Editing",
-        "Conference Organization",
-        "International Collaboration"
-      ]
+      "keywords": ["Journal Editing", "Conference Organization", "International Collaboration"]
     }
   ],
   "references": [],
@@ -270,44 +245,24 @@
     {
       "name": "Virtual Reality Education Technology for Smart Museums",
       "description": "National Natural Science Foundation of China (NSFC): Young Scientists Fund",
-      "highlights": [
-        "Principal Investigator",
-        "RMB 300,000 funding",
-        "2023-2025"
-      ],
-      "keywords": [
-        "Virtual Reality",
-        "Education",
-        "Museums"
-      ],
+      "highlights": ["Principal Investigator", "RMB 300,000 funding", "2023-2025"],
+      "keywords": ["Virtual Reality", "Education", "Museums"],
       "startDate": "2023-01-01",
       "endDate": "2025-12-31",
       "url": "",
-      "roles": [
-        "Principal Investigator"
-      ],
+      "roles": ["Principal Investigator"],
       "entity": "National Natural Science Foundation of China",
       "type": "research"
     },
     {
       "name": "HER Lab - Human Experience Research Lab",
       "description": "Leading a research laboratory focusing on human experience in virtual and augmented reality environments",
-      "highlights": [
-        "Lab Director",
-        "5 PhD students supervised",
-        "90+ publications"
-      ],
-      "keywords": [
-        "Virtual Reality",
-        "Human-Computer Interaction",
-        "Research Lab"
-      ],
+      "highlights": ["Lab Director", "5 PhD students supervised", "90+ publications"],
+      "keywords": ["Virtual Reality", "Human-Computer Interaction", "Research Lab"],
       "startDate": "2021-01-01",
       "endDate": "",
       "url": "https://hiherlab.github.io/",
-      "roles": [
-        "Lab Director"
-      ],
+      "roles": ["Lab Director"],
       "entity": "Xi'an Jiaotong-Liverpool University",
       "type": "research"
     }

@@ -6,7 +6,7 @@ cv:
   phone: 0512-81883223
   location: Suzhou, China
   website: imyueli.github.io
-  
+
   social_networks:
     - network: LinkedIn
       username: imyueli
@@ -27,17 +27,15 @@ cv:
         degree: Doctor of Philosophy, Computer Science
         start_date: 2016-09
         end_date: 2020-11
-    #     thesis: "Interaction, Communication, and Engagement in Hybrid Virtual and Augmented Reality Environments"
-    #     supervisors: 
-    #       - Prof. Eugene Ch'ng
-    #       - Dr. Sue Cobb
-    #       - Prof. Simon See
-        # highlights:
-        #   - "Thesis entitled 'Interaction, Communication, and Engagement in Hybrid Virtual and Augmented Reality Environments'. Nominee of IEEE VGTC Virtual Reality Outstanding Dissertation."
-          # -	"Supervised by Prof. Eugene Ch'ng, Dr. Sue Cobb and Prof. Simon See."
-          # -	"Recipient of a full scholarship for a four-year PhD programme and the Postgraduate Award 2020. 
-
-
+      #     thesis: "Interaction, Communication, and Engagement in Hybrid Virtual and Augmented Reality Environments"
+      #     supervisors:
+      #       - Prof. Eugene Ch'ng
+      #       - Dr. Sue Cobb
+      #       - Prof. Simon See
+      # highlights:
+      #   - "Thesis entitled 'Interaction, Communication, and Engagement in Hybrid Virtual and Augmented Reality Environments'. Nominee of IEEE VGTC Virtual Reality Outstanding Dissertation."
+      # -	"Supervised by Prof. Eugene Ch'ng, Dr. Sue Cobb and Prof. Simon See."
+      # -	"Recipient of a full scholarship for a four-year PhD programme and the Postgraduate Award 2020.
       - institution: University of Nottingham Ningbo China
         location: China
         degree: Bachelor of Science (Hons), Computer Science
@@ -47,7 +45,6 @@ cv:
         #   -	"Graduated with a first class honours degree, the Vice Chancellor's Medal and the Presidential Award."
         #   -	"Winner of the Chinese National Scholarship Award, Outstanding Graduate of Zhejiang Province, Nottingham Advantage Award and the Provost's Scholarship (top 1.5%)."
 
-
     Experience:
       - position: Associate Professor
         location: China
@@ -55,7 +52,7 @@ cv:
         department: Department of Computing, School of Advanced Technology
         start_date: 2026-01
         end_date: Present
-        
+
       - position: Assistant Professor
         location: China
         company: Xi'an Jiaotong-Liverpool University
@@ -115,15 +112,15 @@ cv:
       - title: CPT411 Evaluation Methods and Statistics
         start_date: 2021-09
         end_date: Present
-    #     role: Founding Module Leader
-    #     students: Students with science and design background
-    #     hours_per_week: 4
-    #     performance:
-    #       - "AY2024/25/S1: Module 4.95 > 4.45, Teaching 5.00 > 4.51 (17 students)"
-    #       - "AY2023/24/S1: Module 4.62 > 4.28, Teaching 4.60 > 4.38 (14 students)"
-    #       - "AY2022/23/S1: Module 4.72 > 4.15, Teaching 4.93 > 4.27 (24 students)"
-    #       - "AY2021/22/S1: Module 4.75 > 4.28, Teaching 4.92 > 4.38 (11 students)"
-    #     innovation: "Technology-mediated learning using ALEKS to facilitate student learning of statistics"
+      #     role: Founding Module Leader
+      #     students: Students with science and design background
+      #     hours_per_week: 4
+      #     performance:
+      #       - "AY2024/25/S1: Module 4.95 > 4.45, Teaching 5.00 > 4.51 (17 students)"
+      #       - "AY2023/24/S1: Module 4.62 > 4.28, Teaching 4.60 > 4.38 (14 students)"
+      #       - "AY2022/23/S1: Module 4.72 > 4.15, Teaching 4.93 > 4.27 (24 students)"
+      #       - "AY2021/22/S1: Module 4.75 > 4.28, Teaching 4.92 > 4.38 (11 students)"
+      #     innovation: "Technology-mediated learning using ALEKS to facilitate student learning of statistics"
 
       - title: CPT202 Software Engineering Group Project
         start_date: 2020-09
@@ -138,7 +135,7 @@ cv:
       # Governmental:
       #   total_amount_as_pi: "RMB 550K"
       #   total_amount_as_copi: "RMB 3.93M"
-        # projects:
+      # projects:
       - name: "Research on Key Technologies and Applications of Virtual Performance of Nanyin Based on Virtual Reality"
         summary: "Key Laboratory Open Project, Quanzhou Normal University."
         start_date: 2025-05-01
@@ -187,7 +184,7 @@ cv:
         summary: "XJTLU Postgraduate Research Scholarship Fund (PGRS). <br>Student: Jiachen Liang."
         start_date: 2023-09-01
         end_date: 2026-08-31
-      
+
       - name: "Experiential Learning in Virtual Museums"
         summary: "XJTLU Postgraduate Research Scholarship Fund (PGRS). <br>Student: Xueqi Wang."
         start_date: 2023-09-01
@@ -300,4 +297,3 @@ cv:
       - title: National Scholarship Award
         date: 2015
         awarder: Chinese Ministry of Education
-

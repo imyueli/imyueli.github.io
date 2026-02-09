@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attending ICXR 2025 in Qingdao with my PhD student Bingqing Chen. We presented our paper - **Voice of Artifacts** {% cite Chen2025VoiceArtifactsEvaluatinga %}.
+My PhD student Bingqing Chen and I attended the ICXR 2025 in Qingdao. We presented our paper - **Voice of Artifacts** {% cite Chen2025VoiceArtifactsEvaluatinga %}.

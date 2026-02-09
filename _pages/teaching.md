@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: 
+description:
 nav: true
 nav_order: 5
 calendar: true
@@ -15,7 +15,6 @@ calendar: true
 {% include courses.liquid %} -->
 
 <!-- ### CPT208 Human-Centric Computing -->
-
 
 <!-- ### CPT411 Evaluation Methods and Statistics -->
 
@@ -31,6 +30,7 @@ I am happy to supervise **final year projects** in SAT301, SAT405 and SAT406, as
 </div>
 
 ### Taught Students (FYPs and FMPs)
+
 <style>
 .teaching-grid {
   column-count: auto;
@@ -122,4 +122,3 @@ I am happy to supervise **final year projects** in SAT301, SAT405 and SAT406, as
     {% include students_research_card.liquid group=group %}
   {% endfor %}
 </div>
-

@@ -1,40 +1,48 @@
-{% comment %} Students competition awards — CV-style compact list
+{% comment %}
+  Students competition awards — CV-style compact list
   Left: award badge + dates
   Right: authors, title, venue
   Uses `.card` + `.list-group-item` so theme variables control colors
 {% endcomment %}
 
 {% if site.data.students_competitions and site.data.students_competitions.size > 0 %}
-<div class="students-competitions">
-  {% for item in site.data.students_competitions %}
-  <div class="card mb-2">
-    <div class="card-body py-2">
-      <div class="row align-items-start">
-        <div class="col-4 col-sm-2 text-left" style="min-width:110px">
-          <div class="d-flex flex-column">
-            <span class="badge font-weight-bold text-uppercase mb-1" style="min-width:72px; color: var(--global-card-bg-color); background-color: var(--global-theme-color);">{{ item.award }}</span>
-            {% if item.dates %}
-            <small class="text-muted" style="font-size:0.6rem; white-space:nowrap; display:inline-block;"><i class="fa-solid fa-calendar-days" style="margin-right:.4rem"></i>{{ item.dates }}</small>
-            {% endif %}
+  <div class="students-competitions">
+    {% for item in site.data.students_competitions %}
+      <div class="card mb-2">
+        <div class="card-body py-2">
+          <div class="row align-items-start">
+            <div class="col-4 col-sm-2 text-left" style="min-width:110px">
+              <div class="d-flex flex-column">
+                <span
+                  class="badge font-weight-bold text-uppercase mb-1"
+                  style="min-width:72px; color: var(--global-card-bg-color); background-color: var(--global-theme-color);"
+                >
+                  {{- item.award -}}
+                </span>
+                {% if item.dates %}
+                  <small class="text-muted" style="font-size:0.6rem; white-space:nowrap; display:inline-block;"
+                    ><i class="fa-solid fa-calendar-days" style="margin-right:.4rem"></i>{{ item.dates -}}
+                  </small>
+                {% endif %}
+              </div>
+            </div>
+
+            <div class="col-8 col-sm-10">
+              {% if item.authors %}
+                <div class="font-weight-bold mb-1">{{ item.authors | join: ', ' }}</div>
+              {% endif %}
+
+              {% if item.title %}
+                <div style="font-size:0.95rem; margin-bottom:.15rem">{{ item.title }}</div>
+              {% endif %}
+
+              {% if item.venue %}
+                <div class="text-muted" style="font-size:0.9rem; font-style:italic">{{ item.venue }}</div>
+              {% endif %}
+            </div>
           </div>
         </div>
-
-        <div class="col-8 col-sm-10">
-          {% if item.authors %}
-          <div class="font-weight-bold mb-1">{{ item.authors | join: ", " }}</div>
-          {% endif %}
-
-          {% if item.title %}
-          <div style="font-size:0.95rem; margin-bottom:.15rem">{{ item.title }}</div>
-          {% endif %}
-
-          {% if item.venue %}
-          <div class="text-muted" style="font-size:0.9rem; font-style:italic">{{ item.venue }}</div>
-          {% endif %}
-        </div>
       </div>
-    </div>
+    {% endfor %}
   </div>
-  {% endfor %}
-</div>
 {% endif %}
