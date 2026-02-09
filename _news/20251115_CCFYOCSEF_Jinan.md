@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attending CCF YOCSEF Forum in Zibo, Jinan. I gave a talk - **XR and AI Empowered Digital Heritage Innovation: A Case Study of the Relics Arhat Monastery and Twin Pagoda in Suzhou**. Thanks Prof. Huiyu Li for the invitation.
+I was invited to attend the CCF YOCSEF Forum in Zibo, Jinan and gave a talk - **XR and AI Empowered Digital Heritage Innovation: A Case Study of the Relics Arhat Monastery and Twin Pagoda in Suzhou**. Thanks Prof. Huiyu Li for the invitation.
