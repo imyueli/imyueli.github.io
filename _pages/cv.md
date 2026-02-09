@@ -1,12 +1,12 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: Resume
 nav: true
-nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
+nav_order: 6
+# cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: Trained as a computer scientist with a strong passion for human-centered computing and interaction research. Dedicated to advancing virtual and augmented reality, innovative teaching, and impactful interdisciplinary projects around culture, arts, and technology.
 toc:
   sidebar: left
 ---

@@ -1,189 +1,303 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
+  name: Yue Li
+  label: Associate Professor
+  email: Yue.Li@xjtlu.edu.cn
+  # personal_email: imyueli@gmail.com
+  phone: 0512-81883223
+  location: Suzhou, China
+  website: imyueli.github.io
+  
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
-      username: example
+      username: imyueli
+      url: linkedin.com/in/imyueli
+    - network: GitHub
+      username: imyueli
+      url: imyueli.github.io
 
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+  qualifications:
+    - BSc (Hons)
+    - Ph.D.
+    - FHEA
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: University of Nottingham
+        location: United Kingdom
+        degree: Doctor of Philosophy, Computer Science
+        start_date: 2016-09
+        end_date: 2020-11
+    #     thesis: "Interaction, Communication, and Engagement in Hybrid Virtual and Augmented Reality Environments"
+    #     supervisors: 
+    #       - Prof. Eugene Ch'ng
+    #       - Dr. Sue Cobb
+    #       - Prof. Simon See
+        # highlights:
+        #   - "Thesis entitled 'Interaction, Communication, and Engagement in Hybrid Virtual and Augmented Reality Environments'. Nominee of IEEE VGTC Virtual Reality Outstanding Dissertation."
+          # -	"Supervised by Prof. Eugene Ch'ng, Dr. Sue Cobb and Prof. Simon See."
+          # -	"Recipient of a full scholarship for a four-year PhD programme and the Postgraduate Award 2020. 
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+
+      - institution: University of Nottingham Ningbo China
+        location: China
+        degree: Bachelor of Science (Hons), Computer Science
+        start_date: 2012-09
+        end_date: 2016-07
+        # highlights:
+        #   -	"Graduated with a first class honours degree, the Vice Chancellor's Medal and the Presidential Award."
+        #   -	"Winner of the Chinese National Scholarship Award, Outstanding Graduate of Zhejiang Province, Nottingham Advantage Award and the Provost's Scholarship (top 1.5%)."
+
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+      - position: Associate Professor
+        location: China
+        company: Xi'an Jiaotong-Liverpool University
+        department: Department of Computing, School of Advanced Technology
+        start_date: 2026-01
+        end_date: Present
+        
+      - position: Assistant Professor
+        location: China
+        company: Xi'an Jiaotong-Liverpool University
+        department: Department of Computing, School of Advanced Technology
+        start_date: 2021-01
+        end_date: 2025-12
+        responsibilities:
+          - "Teaching: Led 2 modules and co-taught 1 module"
+          - "Successful supervision of 60+ UG and PG final year projects"
+          - "Supervisor of prize-winning student projects in international and national competitions"
+          - "Research: Published 90+ papers; filed 6 patents; obtained 19 research grants as PI"
+          - "Primary supervisor of 5 PhD students; co-supervising 3 PhD projects"
+          - "Leading a research lab (HER Lab): https://hiherlab.github.io/"
+          - "Associate Editor of 2 SCI journals (Interacting with Computers & PRESENCE: Virtual and Augmented Reality)"
+          - "Service: Programme Director of MSc Social Computing"
+          - "Academic Advisor of students"
+          - "China country representative of IFIP TC13"
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      - position: Research Associate
+        location: China
+        company: Virtual Engineering Centre, XJTLU
+        start_date: 2019-12
+        end_date: 2020-05
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - position: Research Intern
+        location: China
+        company: NVIDIA AI Technology Centre, NVIDIA Inc.
+        start_date: 2017-11
+        end_date: 2018-11
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - position: Teaching Assistant
+        location: United Kingdom
+        company: University of Nottingham
+        start_date: 2017-02
+        end_date: 2018-05
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - position: Software Engineer Intern
+        location: China
+        company: Globalisation Shared Service Centre, IBM
+        start_date: 2014-06
+        end_date: 2014-09
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+    Teaching:
+      - title: CPT208 Human-Centric Computing
+        start_date: 2021-03
+        end_date: Present
+        # role: Module Leader
+        # students: 200-300 Year 3 students
+        # hours_per_week: 4
+        # performance:
+        #   - "AY2024/25/S2: Overall 4.67 > 4.59 (308 students)"
+        #   - "AY2023/24/S2: Module 4.37 > 4.28, Teaching 4.60 > 4.40 (250 students)"
+        #   - "AY2022/23/S2: Module 4.64 > 4.07, Teaching 4.70 > 4.26 (244 students)"
+        #   - "AY2021/22/S2: Module 4.47 > 4.25, Teaching 4.64 > 4.34 (238 students)"
+        # innovation: "Practice-led learning and research-driven learning"
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: CPT411 Evaluation Methods and Statistics
+        start_date: 2021-09
+        end_date: Present
+    #     role: Founding Module Leader
+    #     students: Students with science and design background
+    #     hours_per_week: 4
+    #     performance:
+    #       - "AY2024/25/S1: Module 4.95 > 4.45, Teaching 5.00 > 4.51 (17 students)"
+    #       - "AY2023/24/S1: Module 4.62 > 4.28, Teaching 4.60 > 4.38 (14 students)"
+    #       - "AY2022/23/S1: Module 4.72 > 4.15, Teaching 4.93 > 4.27 (24 students)"
+    #       - "AY2021/22/S1: Module 4.75 > 4.28, Teaching 4.92 > 4.38 (11 students)"
+    #     innovation: "Technology-mediated learning using ALEKS to facilitate student learning of statistics"
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - title: CPT202 Software Engineering Group Project
+        start_date: 2020-09
+        end_date: 2021-01
+    #     role: Co-teacher
+    #     term: AY2020/21/S2
+    #     students: 370 students in 44 groups
+    #     hours_per_week: 3
+    #     innovation: "Research-led teaching, published an action research on group work engagement"
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      # Governmental:
+      #   total_amount_as_pi: "RMB 550K"
+      #   total_amount_as_copi: "RMB 3.93M"
+        # projects:
+      - name: "Research on Key Technologies and Applications of Virtual Performance of Nanyin Based on Virtual Reality"
+        summary: "Key Laboratory Open Project, Quanzhou Normal University."
+        start_date: 2025-05-01
+        end_date: 2027-04-30
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: "Virtual Reality Education Technology for Smart Museums"
+        summary: "National Natural Science Foundation of China (NSFC): Young Scientists Fund."
+        start_date: 2023-01-01
+        end_date: 2025-12-31
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: "Industrial Internet XR Education Lab"
+        summary: "Ministry of Education University-Industry Collaborative Education Program."
+        start_date: 2024-05-01
+        end_date: 2024-12-31
+
+      - name: "Extended Reality Collaboration Technology for Metaverse"
+        summary: "The Natural Science Foundation of the Jiangsu Higher Education Institutions of China: General Programme."
+        start_date: 2022-07-01
+        end_date: 2024-06-30
+
+      - name: "Engaging Spectators in Virtual Reality"
+        summary: "XJTLU Research Development Fund (RDF)."
+        start_date: 2021-09-01
+        end_date: 2024-08-31
+
+      - name: "Engaging Students in Exploratory Modules Using Virtual Reality"
+        summary: "XJTLU Teaching Development Fund (TDF)."
+        start_date: 2021-09-01
+        end_date: 2023-08-31
+
+      # Student_Projects:
+      #   total_amount_as_pi: "RMB 2.20M"
+      #   projects:
+    Scholarships:
+      - name: "Data-driven Surrogate Model for Temperature Field Prediction in Aluminum Alloy Casting"
+        summary: "XJTLU Postgraduate Research Scholarship Fund (JITRI PGRS). <br>Student: Xingzhi Zhao."
+        start_date: 2025-06-01
+        end_date: 2028-05-31
+
+      - name: "Fostering Emotional Connections in Virtual Museums through Human-AI Co-creation and Participatory Curatorial Practices"
+        summary: "XJTLU Postgraduate Research Scholarship Fund (PGRS). <br>Student: Bingqing Chen."
+        start_date: 2025-03-01
+        end_date: 2028-02-29
+
+      - name: "Playful and Participatory Cultural Heritage Experience Using Extended Reality Technologies"
+        summary: "XJTLU Postgraduate Research Scholarship Fund (PGRS). <br>Student: Jiachen Liang."
+        start_date: 2023-09-01
+        end_date: 2026-08-31
+      
+      - name: "Experiential Learning in Virtual Museums"
+        summary: "XJTLU Postgraduate Research Scholarship Fund (PGRS). <br>Student: Xueqi Wang."
+        start_date: 2023-09-01
+        end_date: 2026-08-31
+
+      - name: "Fabrication of High-Performance Neural Sensors for Signal Acquisition of Non-Invasive Brain-Computer Interface (BCI)"
+        summary: "XJTLU Postgraduate Research Scholarship Fund (JITRI PGRS). <br>Student: Junyi Zhang."
+        start_date: 2023-06-01
+        end_date: 2026-05-31
+
+    # Research_Metrics:
+    #   publications: "90+ papers"
+    #   patents: 6
+    #   research_grants_as_pi: 19
+    #   phd_students_primary: 5
+    #   phd_students_cosupervising: 3
+    #   lab_leadership: "HER Lab: https://hiherlab.github.io/"
+
+    # Editorial_Service:
+    #   - journal: "Interacting with Computers"
+    #     role: Associate Editor
+    #     type: SCI
+    #   - journal: "PRESENCE: Virtual and Augmented Reality"
+    #     role: Associate Editor
+    #     type: SCI
+
+    # Professional_Service:
+    #   - role: "Programme Director of MSc Social Computing"
+    #   - role: "Academic Advisor of students"
+    #   - role: "China country representative of IFIP TC13"
+    #   - role: "Regular service on organization committee of top conferences"
+
+    Awards:
+      - title: Academic Excellence Award - Teaching Innovation
+        date: 2025
+        awarder: Xi'an Jiaotong-Liverpool University
+
+      - title: Excellent Mentor for Talent Cultivation
+        date: 2025
+        awarder: JITRI Academy of Industrial Technology, XJTLU
+
+      - title: Rising Star in Research and Innovation
+        date: 2025
+        awarder: University of Nottingham
+
+      - title: Best Paper Award
+        date: 2025
+        awarder: UbiComp UbiSense
+
+      - title: Best Paper Award
+        date: 2025
+        awarder: CHCI (第二十一届全国人机交互学术会议)
+
+      - title: Best Poster Award
+        date: 2024
+        awarder: ChinaVR (第二十四届中国虚拟现实大会)
+
+      - title: Best Paper Award & Best Presentation Award
+        date: 2022
+        awarder: International Conference on Educational Technology
+
+      - title: Nominee of IEEE VGTC Virtual Reality Outstanding Dissertation
+        date: 2022
+        awarder: IEEE VGTC
+
+      - title: Suzhou Science and Education Backbone Talents (科教骨干人才)
+        date: 2022
+        awarder: Suzhou Industrial Park
+
+      - title: Jiangsu Shuangchuang PhD (双创博士)
+        date: 2022
+        awarder: Jiangsu Province
+
+      - title: Outstanding Supervisor
+        date: 2022
+        awarder: China Competition on Virtual Reality
+
+      - title: First Prize
+        date: 2021
+        awarder: International Contest on Blended Teaching Learning
+
+      - title: Outstanding Supervisor
+        date: 2021
+        awarder: China Competition on Virtual Reality
+
+      - title: Tri-Campus Postgraduate Award
+        date: 2020
+        awarder: University of Nottingham
+
+      - title: Best Student Paper Award
+        date: 2019
+        awarder: University of Nottingham
+
+      - title: Postgraduate Teaching Award Highly Commended
+        date: 2019
+        awarder: University of Nottingham
+
+      - title: Postgraduate Teaching Award Highly Commended
+        date: 2018
+        awarder: University of Nottingham
+
+      - title: Vice-Chancellor's Medal
+        date: 2016
+        awarder: University of Nottingham
+
+      - title: Outstanding Graduate
+        date: 2016
+        awarder: Zhejiang Education Bureau
+
+      - title: National Scholarship Award
+        date: 2015
+        awarder: Chinese Ministry of Education
+

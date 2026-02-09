@@ -1,0 +1,131 @@
+- title: SURF 2021
+  students:
+    - name: Jiangyue Li
+      affiliation: ICS
+    - name: Letian Xie
+      affiliation: ICS
+    - name: Mingze Wu
+      affiliation: ICS
+    - name: Ruixiang Zhao
+      affiliation: ICS
+    - name: Ruizhe Kan
+      affiliation: ICS
+    - name: Xingbo Wei
+      affiliation: ICS
+    - name: Ningning Xu
+      affiliation: MSc AI
+
+- title: SURF 2022
+  students:
+    - name: Kexiang Shuai
+      affiliation: CST
+    - name: Ziyue Zhao
+      affiliation: CST
+    - name: Xuansheng Xia
+      affiliation: DMT
+    - name: Jiarui Chen
+      affiliation: ICS
+    - name: Mingze Wu
+      affiliation: ICS
+    - name: Ruixiang Zhao
+      affiliation: ICS
+    - name: Wenxuan Zheng
+      affiliation: ICS
+    - name: Yinuo Wang
+      affiliation: ICS
+    - name: Zhiwen Xu
+      affiliation: Taicang
+    - name: Jiachen Liang
+      affiliation: MSc SOC
+    - name: Guanxuan Jiang
+      affiliation: Uni. of Sheffield
+
+- title: SURF 2023
+  students:
+    - name: Kexiang Shuai
+      affiliation: CST
+    - name: Wanyi Tao
+      affiliation: DMT
+    - name: Jiayi Zhao
+      affiliation: DMT
+    - name: Yu Cheng
+      affiliation: DMT
+    - name: Boge Ling
+      affiliation: ICS
+    - name: Haojun Shen
+      affiliation: ICS
+    - name: Jiarui Chen
+      affiliation: ICS
+    - name: Mingge Ma
+      affiliation: ICS
+    - name: Yinuo Wang
+      affiliation: ICS
+    - name: Yuexin Yao
+      affiliation: ICS
+    - name: Zelin Jiang
+      affiliation: MSc SOC
+
+- title: SURF 2024
+  students:
+    - name: Gengyuan Zeng
+      affiliation: DMT
+    - name: Wenqi Chu
+      affiliation: DMT
+    - name: Yuchen Yan
+      affiliation: DMT
+    - name: Bowen Fang
+      affiliation: ICS
+    - name: Ningjia Duan
+      affiliation: ICS
+    - name: Yiwen Xu
+      affiliation: MTH
+    - name: Fanpei Liu
+      affiliation: Taicang
+    - name: Wentao Song
+      affiliation: Uni. of Liverpool
+
+- title: SURF 2025
+  students:
+    - name: Gengyuan Zeng
+      affiliation: DMT
+    - name: Shuwen Yang
+      affiliation: DMT
+    - name: Wenqi Chu
+      affiliation: DMT
+    - name: Yuchen Yan
+      affiliation: DMT
+    - name: Yuxin Tian
+      affiliation: DMT
+    - name: Ziyuan Gao
+      affiliation: DMT
+    - name: Ningjia Duan
+      affiliation: ICS
+    - name: Runze Zhang
+      affiliation: ICS
+    - name: Xuning Hu
+      affiliation: ICS
+    - name: Yueqi Zhao
+      affiliation: ICS
+
+- title: External mentees
+  students:
+    - name: Chao Wu
+      affiliation: HCI+ 2025
+    - name: Chenyao Diao
+      affiliation: HCI+ 2025
+    - name: Danyang Peng
+      affiliation: HCI+ 2025
+    - name: Qingxuan Yan
+      affiliation: HCI+ 2025
+    - name: Shuran Fan
+      affiliation: HCI+ 2025
+    - name: Xujia Liu
+      affiliation: HCI+ 2025
+    - name: Yinghong Liu
+      affiliation: HCI+ 2025
+    - name: Zicong Meng
+      affiliation: HCI+ 2025
+    - name: Yilan Tao
+      affiliation: Reality Design Lab
+    - name: Xuehua Fu
+      affiliation: SUSTech

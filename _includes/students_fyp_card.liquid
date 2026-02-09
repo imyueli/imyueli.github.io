@@ -1,0 +1,17 @@
+{%- comment -%}
+  Renders a student FYP/FMP card with program title and students list.
+  Usage:
+    {% include students_fyp_card.liquid program=program %}
+{%- endcomment -%}
+
+<div class="teaching-card">
+  <h3>{{ include.program.title }}</h3>
+  <div class="students">
+    {%- for student in include.program.students -%}
+      <div class="student-item">
+        <span class="student-name">{{ student.name }}</span>
+        <span class="grad-year">{{ student.year }}</span>
+      </div>
+    {%- endfor -%}
+  </div>
+</div>

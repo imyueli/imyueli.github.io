@@ -1,0 +1,19 @@
+{%- comment -%}
+  Renders a student research card with title and list of participants.
+  Usage:
+    {% include students_research_card.liquid group=group %}
+{%- endcomment -%}
+
+<div class="teaching-card">
+  <h3>{{ include.group.title }}</h3>
+  <div class="students">
+    {%- for s in include.group.students -%}
+      <div class="student-item">
+        <span class="student-name">{{ s.name }}</span>
+        {%- if s.affiliation -%}
+          <span class="grad-year">{{ s.affiliation }}</span>
+        {%- endif -%}
+      </div>
+    {%- endfor -%}
+  </div>
+</div>
