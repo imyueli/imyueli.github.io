@@ -90,13 +90,22 @@
     - name: Xiaojie Wang
       year: 2024
 
+- title: MSc Data Science
+  students:
+    - name: Chuan Tian
+      year: 2026
+ 
 - title: MSc Financial Computing
   students:
+    - name: Qi Jiang
+      year: 2026
     - name: Enhao Yang
       year: 2022
 
 - title: MSc Human-Computer Interaction
   students:
+    - name: Xin Xi
+      year: 2026
     - name: Gezhou Yang
       year: 2025
     - name: Runze Yang
@@ -116,6 +125,14 @@
 
 - title: MSc Social Computing
   students:
+    - name: Ruien Shen
+      year: 2026
+    - name: Huaizhi Sun
+      year: 2026
+    - name: Huiyue Zhang
+      year: 2026
+    - name: Zihao Zhou
+      year: 2026
     - name: Minyan Su
       year: 2024
     - name: Zelin Jiang
