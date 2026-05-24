@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "A growing collection of your cool projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Projects/";
+          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "",
@@ -376,7 +383,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-xr-exhibit-zeng-et-al-2025-won-the-best-paper-award-at-ubicomp-ubisense-2025-congratulations-to-gengyuan-and-the-team",
+            },},{id: "news-a-simple-inline-announcement",
+          title: 'A simple inline announcement.',
+          description: "",
+          section: "News",},{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-our-paper-xr-exhibit-zeng-et-al-2025-won-the-best-paper-award-at-ubicomp-ubisense-2025-congratulations-to-gengyuan-and-the-team",
           title: '🏆 Our paper, XR Exhibit+ (Zeng et al., 2025), won the Best Paper...',
           description: "",
           section: "News",},{id: "news-my-phd-student-bingqing-chen-and-i-attended-the-icxr-2025-in-qingdao-we-presented-our-paper-voice-of-artifacts-chen-et-al-2025",
@@ -390,6 +408,15 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-was-invited-to-attend-the-5th-mega-international-creative-media-festival-amp-amp-launch-ceremony-of-immersive-dome-cinema-thanks-prof-qian-liu-for-the-invitation",
           title: 'I was invited to attend the 5th MEGA International Creative Media Festival &amp;amp;amp;...',
+          description: "",
+          section: "News",},{id: "news-huge-congratulations-to-my-first-phd-student-shuhao-zhang-for-passing-his-viva-with-minor-revisions",
+          title: 'Huge congratulations to my first PhD student Shuhao Zhang for passing his viva...',
+          description: "",
+          section: "News",},{id: "news-i-acted-as-the-xr-gallery-co-chair-at-ieee-vr-2026-together-with-jean-remy-chardonnet-henry-duh-georges-gagnere-hyungseok-kim-and-hai-ning-liang",
+          title: 'I acted as the XR Gallery Co-Chair at IEEE VR 2026, together with...',
+          description: "",
+          section: "News",},{id: "news-i-am-now-the-subject-area-head-of-computer-systems-and-infrastructure-at-our-new-academy-of-ai-and-advanced-technology",
+          title: 'I am now the Subject Area Head of Computer Systems and Infrastructure at...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
